@@ -1,0 +1,3 @@
+DRAFT: Vocal Trance Melody Sketches Studies is a four-study original MIDI release at 138 BPM. Simple-synthesis preview, not a master. #MIDI #Composition
+
+Count: 152 characters using Python len

@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:58:03.680861+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z3101-vocal-trance-melody-sketches-opening/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "fdc28efa6f406215a9da92174dd94ab12553090756f24289314ef2d4cbceb6fb",
+      "errors": []
+    },
+    {
+      "path": "midi/z3101-vocal-trance-melody-sketches-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "704af8d90f991419137fd4f1f0756cd2fab14f605ad759a97efc60d78082e7ab",
+      "errors": []
+    },
+    {
+      "path": "midi/z3101-vocal-trance-melody-sketches-opening/drums.mid",
+      "bytes": 2986,
+      "sha256": "60eb52b28f2ecb8deb644a023c70958dc4c6d18d2664c337ce8f4da0b975c12a",
+      "errors": []
+    },
+    {
+      "path": "midi/z3101-vocal-trance-melody-sketches-opening/principal_motif.mid",
+      "bytes": 818,
+      "sha256": "fc007ad6cf107256065501686b533d881636812fb68e08fb537e17f2bf93334f",
+      "errors": []
+    },
+    {
+      "path": "midi/z3101-vocal-trance-melody-sketches-opening/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "16e49ca9813f75752c2530b04a26525fd168a04c7d28ac1932e33f0e440f7454",
+      "errors": []
+    },
+    {
+      "path": "midi/z3101-vocal-trance-melody-sketches-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "06d34a8098144463d53696ac783660b4da825c5516ad462742d767b71de0ae4d",
+      "errors": []
+    },
+    {
+      "path": "midi/z3101-vocal-trance-melody-sketches-opening/z3101-vocal-trance-melody-sketches-opening-combined.mid",
+      "bytes": 6040,
+      "sha256": "61f2f34b125315e5336ce3ca555c8de01048747afede2a8e7f465092f72f7361",
+      "errors": []
+    },
+    {
+      "path": "midi/z3102-vocal-trance-melody-sketches-variation/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "44838762bc8ad3df72a5d60dcfd96698b594fd74fa6356c12b1724582b19ef81",
+      "errors": []
+    },
+    {
+      "path": "midi/z3102-vocal-trance-melody-sketches-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "427135e5cc26c39181ed2227c2cbb0dd310c1f8ef2886373fca45e2d1a17114a",
+      "errors": []
+    },
+    {
+      "path": "midi/z3102-vocal-trance-melody-sketches-variation/drums.mid",
+      "bytes": 2986,
+      "sha256": "60eb52b28f2ecb8deb644a023c70958dc4c6d18d2664c337ce8f4da0b975c12a",
+      "errors": []
+    },
+    {
+      "path": "midi/z3102-vocal-trance-melody-sketches-variation/principal_motif.mid",
+      "bytes": 818,
+      "sha256": "3b4cd041cdd12db3882f85a03e86eff8d0b5ee3c628b0836311d28158af129fc",
+      "errors": []
+    },
+    {
+      "path": "midi/z3102-vocal-trance-melody-sketches-variation/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "107b5f28a295a7a3403729aa2247911d81b6922693609b37c68783e79b5282dc",
+      "errors": []
+    },
+    {
+      "path": "midi/z3102-vocal-trance-melody-sketches-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "148d1aabb5d6ff8136fb82f4768383c8d6046c77ed36d945ec4279de96e81cc1",
+      "errors": []
+    },
+    {
+      "path": "midi/z3102-vocal-trance-melody-sketches-variation/z3102-vocal-trance-melody-sketches-variation-combined.mid",
+      "bytes": 6040,
+      "sha256": "7f0ea8cc269fd5a05f0357dcbe4dc7b4c4d11eb5c1400ee7cf87acdd4a505c95",
+      "errors": []
+    },
+    {
+      "path": "midi/z3103-vocal-trance-melody-sketches-contrast/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "78c6207d7ff61cabb6d4ecb20b09e7c080780bdce617b67328db559f34efb273",
+      "errors": []
+    },
+    {
+      "path": "midi/z3103-vocal-trance-melody-sketches-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "0c42be96f24ebd4ca976c1b804cbc86030cc51c95bc3c23e3456f65c7542f0a5",
+      "errors": []
+    },
+    {
+      "path": "midi/z3103-vocal-trance-melody-sketches-contrast/drums.mid",
+      "bytes": 2986,
+      "sha256": "60eb52b28f2ecb8deb644a023c70958dc4c6d18d2664c337ce8f4da0b975c12a",
+      "errors": []
+    },
+    {
+      "path": "midi/z3103-vocal-trance-melody-sketches-contrast/principal_motif.mid",
+      "bytes": 782,
+      "sha256": "e9bbc6f6a0d7111db0eddd3cc4208646bfff52143422ce37efec3ca88753055d",
+      "errors": []
+    },
+    {
+      "path": "midi/z3103-vocal-trance-melody-sketches-contrast/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "f54c5a00b73b075ba002b36d52322cb01272b74c2fc58656332e85e5765abd91",
+      "errors": []
+    },
+    {
+      "path": "midi/z3103-vocal-trance-melody-sketches-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "9dbfccd8b97b241dccfa1b1512af9dafbe1fd816b9df1a8d34ec3dc0a9bc7907",
+      "errors": []
+    },
+    {
+      "path": "midi/z3103-vocal-trance-melody-sketches-contrast/z3103-vocal-trance-melody-sketches-contrast-combined.mid",
+      "bytes": 6004,
+      "sha256": "526e43ac76d8f231ea1ead9c0bd77ad485256172662256ac73d09fa7b4393177",
+      "errors": []
+    },
+    {
+      "path": "midi/z3104-vocal-trance-melody-sketches-return/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "c5405614d035228a27e703bde898facc181b06fb26c16f845ee51e03003fb133",
+      "errors": []
+    },
+    {
+      "path": "midi/z3104-vocal-trance-melody-sketches-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "86e03fa12534a272c9269edcaf9b7f22df4fdaee9cdfdfea919ae10239511279",
+      "errors": []
+    },
+    {
+      "path": "midi/z3104-vocal-trance-melody-sketches-return/drums.mid",
+      "bytes": 2986,
+      "sha256": "60eb52b28f2ecb8deb644a023c70958dc4c6d18d2664c337ce8f4da0b975c12a",
+      "errors": []
+    },
+    {
+      "path": "midi/z3104-vocal-trance-melody-sketches-return/principal_motif.mid",
+      "bytes": 784,
+      "sha256": "1400e1991c9907ff1076e9dd338e2f75574d93021569f78d1b16182370c98801",
+      "errors": []
+    },
+    {
+      "path": "midi/z3104-vocal-trance-melody-sketches-return/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "12962ce8f0ea6787bf68a10168da86e20d7fd0a9f05e704c8a67ee064fe55f37",
+      "errors": []
+    },
+    {
+      "path": "midi/z3104-vocal-trance-melody-sketches-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "cd594cc2f2eac5630514b55dce7cf61b249402ed15468dec454e1e6b648ad2d6",
+      "errors": []
+    },
+    {
+      "path": "midi/z3104-vocal-trance-melody-sketches-return/z3104-vocal-trance-melody-sketches-return-combined.mid",
+      "bytes": 6006,
+      "sha256": "0a0625452f01a91a19fb690abead3311a1b9c83f73b6268a4ff091075dfd9c64",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}

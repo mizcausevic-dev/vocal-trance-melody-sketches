@@ -1,0 +1,26 @@
+{
+  "title": "Vocal Trance Melody Sketches",
+  "study": "z3101",
+  "bpm": 138,
+  "source_audio": "preview/vocal-trance-melody-sketches-simple-synth-preview.mp3",
+  "source_audio_sha256": "09441d6006e97f4c0bf27e84db01c2693edc48898956135f2c1cb27bd7f6b853",
+  "source_midi": "midi/z3101-vocal-trance-melody-sketches-opening/z3101-vocal-trance-melody-sketches-opening-combined.mid",
+  "source_midi_sha256": "61f2f34b125315e5336ce3ca555c8de01048747afede2a8e7f465092f72f7361",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "c5408153f40dc62d8879cd2914b2dbfaf9c023830518576b1060b7e58160c5cc",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "1e56b601010c78c8b01d3bcd05cbb119ce5f2c3489eec4456988a9b2cdb8b40b",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "6efe12d91b228c20bde8d1cd14fd7b5cc2fbb40a2df6c63e13d6732cb3eacd84",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

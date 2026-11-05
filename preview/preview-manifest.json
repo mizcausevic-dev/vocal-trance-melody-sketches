@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/vocal-trance-melody-sketches-simple-synth-preview.mp3",
+  "preview_sha256": "09441d6006e97f4c0bf27e84db01c2693edc48898956135f2c1cb27bd7f6b853",
+  "source_midi_path": "midi/z3101-vocal-trance-melody-sketches-opening/z3101-vocal-trance-melody-sketches-opening-combined.mid",
+  "source_midi_sha256": "61f2f34b125315e5336ce3ca555c8de01048747afede2a8e7f465092f72f7361",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "z3101",
+    "start_seconds": 0,
+    "end_seconds": 55.652
+  },
+  "measurement": {
+    "sample_peak": 0.134903,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}
