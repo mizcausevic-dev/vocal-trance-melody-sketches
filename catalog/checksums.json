@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/vocal-trance-melody-sketches-midi.zip",
-      "bytes": 32152,
-      "sha256": "7cc2313b67ab584526b5fbc11c2479841ea8b4cf478bf4dc1f801afe334dc432"
+      "bytes": 33139,
+      "sha256": "84188f23837f8a1fbdce5c193897fe11f58cec6afe813c449986f298dbca9adb"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10116,
-      "sha256": "44d46d0befc46cec747619b258c28998f0c01a20a08e530ebf1302a784ce385c"
+      "bytes": 10306,
+      "sha256": "94631c5bbb63559395c755c6068049901a224b757de5215384bded927e3cb1f6"
     },
     {
       "path": "midi/z3101-vocal-trance-melody-sketches-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "0a0625452f01a91a19fb690abead3311a1b9c83f73b6268a4ff091075dfd9c64"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/preview-manifest.json",
       "bytes": 1194,
       "sha256": "6819a67ea8ad50835d2638db02b04ae6510e0ed1a3fdc6b263c0cf3afaf68742"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4026,
-      "sha256": "652391791012f8f0a893b3532cce1c591ff60ec599aaa58ef52c196c6f5a01bd"
+      "bytes": 4141,
+      "sha256": "f68c396d3ecb12c77f8d3374485d4fd2725f2733653ab6279f9ef82a2ecdfa5c"
     },
     {
       "path": "social/instagram/caption.txt",
